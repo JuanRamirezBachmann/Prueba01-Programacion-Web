@@ -46,10 +46,23 @@ header {
 }
 
 #content {
-    float:left;
+    text-align: middle;
     width: 80%;
     background: lightblue;
     
 }
 
+
+.container{
+    width: 100%;
+    max-width: 100%;
+}
+
+    div.container{
+        background-color: whitesmoke;
+    }
+
+.featuredivider {
+        margin: 5rem 0;
+      }
 
